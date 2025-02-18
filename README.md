@@ -2,8 +2,6 @@
 
 Sistema de Tareas is a simple task management system where you can add, modify or delete tasks that are allocated in a SQL database, and connected to the JavaFx visual interface using Springboot, JPA and Hibernate.
 
-This app was created following Ubaldo Acosta's lead during his "Universidad Java" masterclass.
-
 Technologies used include:
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
